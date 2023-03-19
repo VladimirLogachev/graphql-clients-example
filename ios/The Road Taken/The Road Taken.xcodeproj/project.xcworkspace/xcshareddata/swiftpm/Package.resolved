@@ -1,0 +1,131 @@
+{
+  "pins" : [
+    {
+      "identity" : "bluesignals",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/IBM-Swift/BlueSignals.git",
+      "state" : {
+        "revision" : "1f6c49e186c8a4eeef87ba14f2f97b8646559d13",
+        "version" : "1.0.200"
+      }
+    },
+    {
+      "identity" : "files",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/JohnSundell/Files",
+      "state" : {
+        "revision" : "d273b5b7025d386feef79ef6bad7de762e106eaf",
+        "version" : "4.2.0"
+      }
+    },
+    {
+      "identity" : "nanoseconds",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/dominicegginton/Nanoseconds",
+      "state" : {
+        "revision" : "d874aa99470f12f38a1b9315c0a481adfaacc8b5",
+        "version" : "1.1.1"
+      }
+    },
+    {
+      "identity" : "rainbow",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/onevcat/Rainbow",
+      "state" : {
+        "revision" : "626c3d4b6b55354b4af3aa309f998fae9b31a3d9",
+        "version" : "3.2.0"
+      }
+    },
+    {
+      "identity" : "spinner",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/dominicegginton/Spinner",
+      "state" : {
+        "revision" : "054ec7060d35bfedca14d5b298f536c3e8a270d1",
+        "version" : "2.0.1"
+      }
+    },
+    {
+      "identity" : "starscream",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/daltoniam/Starscream.git",
+      "state" : {
+        "revision" : "df8d82047f6654d8e4b655d1b1525c64e1059d21",
+        "version" : "4.0.4"
+      }
+    },
+    {
+      "identity" : "swift-argument-parser",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-argument-parser",
+      "state" : {
+        "revision" : "9f39744e025c7d377987f30b03770805dcb0bcd1",
+        "version" : "1.1.4"
+      }
+    },
+    {
+      "identity" : "swift-format",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-format",
+      "state" : {
+        "branch" : "main",
+        "revision" : "f2b3e6c0c9b2ae8629a2aba0224a698ecfa8c6a7"
+      }
+    },
+    {
+      "identity" : "swift-graphql",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/maticzav/swift-graphql/",
+      "state" : {
+        "branch" : "main",
+        "revision" : "a8a768f03270a45e6391d8a81923af1e1933ff3c"
+      }
+    },
+    {
+      "identity" : "swift-log",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-log.git",
+      "state" : {
+        "revision" : "32e8d724467f8fe623624570367e3d50c5638e46",
+        "version" : "1.5.2"
+      }
+    },
+    {
+      "identity" : "swift-syntax",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-syntax.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "fbd615b3c43a4d23c642a4e943de5bfb005d1449"
+      }
+    },
+    {
+      "identity" : "swift-system",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-system.git",
+      "state" : {
+        "revision" : "836bc4557b74fe6d2660218d56e3ce96aff76574",
+        "version" : "1.1.1"
+      }
+    },
+    {
+      "identity" : "swift-tools-support-core",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-tools-support-core.git",
+      "state" : {
+        "revision" : "284a41800b7c5565512ec6ae21ee818aac1f84ac",
+        "version" : "0.4.0"
+      }
+    },
+    {
+      "identity" : "yams",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/jpsim/Yams.git",
+      "state" : {
+        "revision" : "f47ba4838c30dbd59998a4e4c87ab620ff959e8a",
+        "version" : "5.0.5"
+      }
+    }
+  ],
+  "version" : 2
+}

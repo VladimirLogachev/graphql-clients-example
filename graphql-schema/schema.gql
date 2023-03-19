@@ -1,0 +1,28 @@
+schema {
+  query: Queries
+  mutation: Mutations
+  subscription: Subscriptions
+}
+
+"Just a Demo input object"
+input DemoInputInput {
+  int: Int!
+}
+
+"Just a Demo object"
+type Demo {
+  int: Int!
+}
+
+type Mutations {
+  increment(demoInput: DemoInputInput!): Demo!
+}
+
+type Queries {
+  "Return demo"
+  demo: Demo!
+}
+
+type Subscriptions {
+  demo: Demo!
+}
